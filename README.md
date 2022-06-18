@@ -8,5 +8,6 @@ Repositorio para guardas desafios do BootCamp da Santander
 - Pesquisar a fundo sobre as funções do Github
 
 - Estudar o Markdown 
+- É Refazer o processo ate dominar as classes
 
   
